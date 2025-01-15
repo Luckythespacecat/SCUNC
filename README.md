@@ -1,4 +1,4 @@
-<img src="file:///home/chronos/u-835b1645f0b7627825798a80815d13ec6f3e3b73/MyFiles/Profile%20Website/Assets/Scunc_Icon.jpg" alt="Project 5"/>![image](https://github.com/user-attachments/assets/6064b300-7380-4750-9573-018dbb0da6cb)
+![image](https://github.com/user-attachments/assets/6064b300-7380-4750-9573-018dbb0da6cb)
 
 # SCUNC
 ## (Slow Chatbot that Uses Name activated Conversations)
